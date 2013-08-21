@@ -1,0 +1,6 @@
+ Too often in networking we have setup with elaborate setups. The idea here to 
+have a script that using CDP to discover what ports are connected. Ideally, I 
+want to specify a set of switches and discover connections to and from each 
+switch
+
+Specially, in datacenters or Layer 2  testbeds this is very useful.
