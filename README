@@ -1,6 +1,6 @@
  Too often in networking we have elaborate setups. The idea here is to 
-have a script that using CDP to discover what ports are connected. Ideally, I 
+have a script that uses CDP to discover what ports are connected. Ideally, I 
 want to specify a set of switches and discover connections to and from each 
-switch in the set of switches specified. For testing Im using Cisco Nexus 5k switches.
+switch in those set of switches specified. For testing Im using Cisco Nexus 5k switches.
 
-Specially, in datacenters or Layer 2 testbeds this is very useful.
+Starting small I can extend this later. 
